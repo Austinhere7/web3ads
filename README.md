@@ -69,6 +69,8 @@ Web3Ads is a full-stack decentralized advertising platform that fairly distribut
 - **x402 Protocol:** AI agents can pay for APIs using ad earnings
 - **MCP Server:** Model Context Protocol for Claude/AI agent integration
 
+Deployed website link : https://web3ads.wtf/
+
 ---
 
 ## Architecture
